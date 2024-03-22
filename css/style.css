@@ -107,10 +107,10 @@ body {
     align-items: center;
     justify-content: center;
     width: 85vw;
-    height: 83vw;
+    height: 75vw;
     margin: auto;
     gap: 3vw;
-    padding: 1vw 3vw 4vw;
+    padding: 1vw 3vw 1vw;
   }
   .water,.mithai{
     flex: 0 1 42%;
