@@ -459,8 +459,8 @@ button {
   align-items: center;
   flex-direction: column;
   gap: 1vw;
-  padding-top: 26vw;
-  padding-bottom: 18vw;
+  padding-top: 48vw;
+  padding-bottom: 35vw;
 }
 .talent-rewards2 {
   display: none;
