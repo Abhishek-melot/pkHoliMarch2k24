@@ -195,8 +195,8 @@ leftArrow1.addEventListener("click", () => {
 const TalentRewardR2 = [
   "15 days SOVERIGN BADGE + <br/> Maharaja Entrance Effect + <br/> Fury Profile Frame",
   "8 days SOVERIGN BADGE + <br/> Maharaja Entrance Effect + <br/> Fury Profile Frame",
-  "5 days Maharaja Entrance Effect + Fury Profile Frame ",
-  "3 days Maharaja Entrance Effect + Fury Profile Frame ",
+  "5 days Maharaja Entrance Effect + <br/> Fury Profile Frame ",
+  "3 days Maharaja Entrance Effect + <br/> Fury Profile Frame ",
 ];
 const TalentRanks2 = [
   "10 Million & Above Gems  ",

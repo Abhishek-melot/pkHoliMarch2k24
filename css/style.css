@@ -71,10 +71,10 @@ body {
     align-items: center;
     background: url("../assets/Rules\ frame.png");
     background-size: 100% 100%;
-    min-height: 70vh;
+    min-height: 60vh;
     justify-content: center;
     background-repeat: no-repeat;
-    padding: 9vw 0;
+    padding: 6vw 0;
   }
   .howToPlay img {
     width: 50%;
@@ -99,7 +99,7 @@ body {
 
   #event-gifts{
     background: url('../assets/Event\ Gifts.png') center / 100% 100% no-repeat;
-    min-height: 55vh;
+    min-height: 45vh;
   }
 
   .gift-wrapper{
@@ -107,10 +107,10 @@ body {
     align-items: center;
     justify-content: center;
     width: 85vw;
-    height: 75vw;
+    height: 80vw;
     margin: auto;
     gap: 3vw;
-    padding: 1vw 3vw 1vw;
+    padding: 2vw 3vw 4vw;
   }
   .water,.mithai{
     flex: 0 1 42%;
@@ -285,7 +285,7 @@ button {
   justify-content: space-between;
   padding: 0 8vw;
   position: relative;
-  min-height: 70vh;
+  min-height: 60vh;
   margin-top: 20px;
 }
 .arrow {
