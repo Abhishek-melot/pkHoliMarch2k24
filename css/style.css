@@ -107,10 +107,10 @@ body {
     align-items: center;
     justify-content: center;
     width: 85vw;
-    height: 88vw;
+    height: 83vw;
     margin: auto;
     gap: 3vw;
-    padding: 1vw 3vw 7vw;
+    padding: 1vw 3vw 4vw;
   }
   .water,.mithai{
     flex: 0 1 42%;
@@ -350,7 +350,7 @@ button {
 }
 .reward-top {
   position: absolute;
-  top: 18vw;
+  top: 25vw;
   width: 28vw;
   right: 36%;
   display: flex;
