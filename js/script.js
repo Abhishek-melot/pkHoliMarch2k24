@@ -125,7 +125,7 @@ leftArrow.addEventListener("click", () => {
 //  Talent Rewards Round-1
 
 const TalentRewardR1 = [
-  "10 Days Audio Room theme + Profile Frame",
+  "10 Days Celebration Audio Room theme + Profile Frame",
   "5 Days Celebration Audio Room theme + Pk Superstar Profile Frame ",
   " 3 Days Celebration Audio Room theme + Pk Superstar Profile Frame ",
   "1 Day Celebration Audio Room theme ",
